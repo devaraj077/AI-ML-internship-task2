@@ -121,8 +121,8 @@ Visualization helps understand data behavior, detect anomalies, and communicate 
 ## 🚀 How to Run the Code
 
 ### Option 1: Using Google Colab
-1. Open the notebook: `titanic_eda.ipynb`
-2. Upload the `titanic.csv` file when prompted
+1. Open the notebook: `titanictask_2.py`
+2. Upload the `Titanic-Dataset.csv` file when prompted
 3. Run all cells to regenerate plots and stats
 
 ### Option 2: Local Machine
