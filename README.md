@@ -111,11 +111,10 @@ Visualization helps understand data behavior, detect anomalies, and communicate 
 
 | File | Description |
 |------|-------------|
-| `titanic_eda.ipynb` | Jupyter notebook containing full EDA process |
-| `titanic.csv` | Original dataset used |
+| `titanictask_2.py` | Python file containing full EDA process |
+| `Titanic-Dataset.csv` | Original dataset used |
 | `README.md` | This file – explains what was done |
-| `eda_plots/` | Folder containing saved visualizations |
-| `eda_analysis.py` *(optional)* | Python script version of the EDA code |
+| `titanic_2/` | Folder containing saved visualizations |
 
 ---
 
